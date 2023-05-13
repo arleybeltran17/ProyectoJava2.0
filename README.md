@@ -1,6 +1,6 @@
 # ProyectoJava2.0
 En este repositorio hago entrega del Taller 6 - Java Web (Repository Pattern). el cual nos pedia, 
-realizar una inserciona la base de datos a travez de diferentes clases y interfaces java:
+realizar una insercion de diferentes registros a la base de datos a travez de diferentes clases y interfaces java:
 ---------------------------------------------------------------------------------------
 
 Código funcional.
